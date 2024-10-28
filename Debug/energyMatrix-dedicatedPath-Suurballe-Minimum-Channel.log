@@ -1,52 +1,52 @@
 ﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
   Suurballe.cpp
-D:\第三章\VNF优先实例整合\Suurballe.cpp(53,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Suurballe.cpp(53,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
   Simulation.cpp
-D:\第三章\VNF优先实例整合\Simulation.cpp(73,19): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
-D:\第三章\VNF优先实例整合\Simulation.cpp(78,16): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Simulation.cpp(73,19): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Simulation.cpp(78,16): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
   Param.cpp
   Main.cpp
-D:\第三章\VNF优先实例整合\Main.cpp(15,6): warning C4101: “lineRateType”: 未引用的局部变量
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Main.cpp(15,6): warning C4101: “lineRateType”: 未引用的局部变量
   Graph.cpp
   Event.cpp
-D:\第三章\VNF优先实例整合\Event.cpp(113,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Event.cpp(373,47): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Event.cpp(286,29): warning C4101: “aVir”: 未引用的局部变量
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Event.cpp(113,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Event.cpp(373,47): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Event.cpp(286,29): warning C4101: “aVir”: 未引用的局部变量
   Database.cpp
-D:\第三章\VNF优先实例整合\Database.cpp(296,21): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(443,22): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(445,23): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(479,22): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(582,19): warning C4101: “waveNum”: 未引用的局部变量
-D:\第三章\VNF优先实例整合\Database.cpp(884,15): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
-D:\第三章\VNF优先实例整合\Database.cpp(1042,20): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1069,21): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1080,20): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1083,21): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1091,20): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1363,30): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1379,26): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1389,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Database.cpp(1475,23): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1563,23): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1586,29): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1602,25): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1612,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Database.cpp(1705,31): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1721,27): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1731,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Database.cpp(1849,30): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1865,26): warning C4018: “<”: 有符号/无符号不匹配
-D:\第三章\VNF优先实例整合\Database.cpp(1875,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Database.cpp(1958,20): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
-D:\第三章\VNF优先实例整合\Database.cpp(847,6): warning C4101: “availWaveLegth”: 未引用的局部变量
-D:\第三章\VNF优先实例整合\Database.cpp(1469,8): warning C4101: “M5”: 未引用的局部变量
-D:\第三章\VNF优先实例整合\Database.cpp(2065,14): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
-D:\第三章\VNF优先实例整合\Database.cpp(2150,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\第三章\VNF优先实例整合\Database.cpp(2039,15): warning C4101: “virLink”: 未引用的局部变量
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(296,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(443,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(445,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(479,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(582,19): warning C4101: “waveNum”: 未引用的局部变量
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(884,15): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1042,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1069,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1080,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1083,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1091,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1363,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1379,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1389,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1475,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1563,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1586,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1602,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1612,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1705,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1721,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1731,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1849,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1865,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1875,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1958,20): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(847,6): warning C4101: “availWaveLegth”: 未引用的局部变量
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(1469,8): warning C4101: “M5”: 未引用的局部变量
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(2065,14): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(2150,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(2039,15): warning C4101: “virLink”: 未引用的局部变量
   正在生成代码...
-D:\第三章\VNF优先实例整合\Database.cpp(206): warning C4715: “Database::Dijkstra”: 不是所有的控件路径都返回值
-D:\第三章\VNF优先实例整合\Suurballe.cpp(251): warning C4715: “Suurballe::Dijkstra”: 不是所有的控件路径都返回值
-D:\第三章\VNF优先实例整合\Suurballe.cpp(484): warning C4715: “Suurballe::combinePath”: 不是所有的控件路径都返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Database.cpp(206): warning C4715: “Database::Dijkstra”: 不是所有的控件路径都返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Suurballe.cpp(251): warning C4715: “Suurballe::Dijkstra”: 不是所有的控件路径都返回值
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Suurballe.cpp(484): warning C4715: “Suurballe::combinePath”: 不是所有的控件路径都返回值
 Database.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
-  energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj -> D:\第三章\VNF优先实例整合\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
+  energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj -> D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe

@@ -1,0 +1,6 @@
+C:\Users\Yujun\Desktop\新建文件夹\NID\kun-unsetTH\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
+C:\Users\Yujun\Desktop\SFC\节点SFC随机\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
+C:\Users\Yujun\Desktop\第三章\节点SFC首次\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
+C:\Users\Yujun\Desktop\第三章\节点SFC首次(聚合)不用-2\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
+C:\Users\Yujun\Desktop\第三章\VNF优先实例整合\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
+D:\第三章\VNF优先实例整合\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe

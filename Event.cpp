@@ -234,6 +234,8 @@ void GenerateEvent::ERtopology(int SFC)
 			}
 		}
 	}
+
+	//可重构
 	if (m0 > 2)
 	{
 		totalEdges = (virMaxNode - m0) * m;
@@ -246,7 +248,9 @@ void GenerateEvent::ERtopology(int SFC)
 	{
 		totalEdges = 1 + (virMaxNode - m0) * m;
 	}
-	if (totalEdges < virMaxNode - 1)
+
+
+	if (totalEdges < virMaxNode - 1)	//很疑惑，，表示生成的边数不足以形成一个连通图（至少需要 virMaxNode - 1 条边才能保证连通性）
 	{
 		cout << "The total edges is less than virMaxNode - 1. Tis VON failures." << endl;
 	}
@@ -257,11 +261,11 @@ void GenerateEvent::ERtopology(int SFC)
 	{
 		for (int j = i; j < virMaxNode; j++)
 		{
-			if (j == i + 1)
+			if (j == i + 1)		//表示这两个节点之间有一条边
 			{
 				virWeight[i][j] = 1;
 				//weight[j][i] = 1;
-				addEdges += 1;
+				addEdges += 1;  //加了两条
 			}
 		}
 	}
@@ -271,7 +275,7 @@ void GenerateEvent::ERtopology(int SFC)
 	{
 		for (int j = i; j < virMaxNode; j++)
 		{
-			if (i != j && virWeight[i][j] == 1)
+			if (i != j && virWeight[i][j] == 1)		//随机生成一个边权重
 			{
 				virWeight[j][i] = virWeight[i][j] = frand(GBLow, GBHigh);
 				getEdges++;

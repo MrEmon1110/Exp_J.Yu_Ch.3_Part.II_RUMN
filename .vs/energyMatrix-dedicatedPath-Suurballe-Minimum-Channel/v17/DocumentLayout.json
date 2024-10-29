@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|solutionrelative:Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|solutionrelative:Simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Param.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|solutionrelative:Param.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Suurballe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E2A683-5231-4558-BCFB-812885830786}|energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj|solutionrelative:Suurballe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +38,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Database.cpp",
-              "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Database.cpp",
-              "RelativeDocumentMoniker": "Database.cpp",
-              "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Database.cpp",
-              "RelativeToolTip": "Database.cpp",
-              "ViewState": "AQIAANQEAAAAAAAAAAAawN4EAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T13:03:32.528Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAIAwwGAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T13:02:04.756Z",
+              "WhenOpened": "2024-10-29T03:17:56.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Simulation.cpp",
+              "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Simulation.cpp",
+              "RelativeDocumentMoniker": "Simulation.cpp",
+              "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Simulation.cpp",
+              "RelativeToolTip": "Simulation.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T03:17:46.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Database.cpp",
+              "RelativeDocumentMoniker": "Database.cpp",
+              "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Database.cpp",
+              "RelativeToolTip": "Database.cpp",
+              "ViewState": "AQIAANgHAAAAAAAAAAAcwOYHAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T13:03:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Suurballe.cpp",
+              "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Suurballe.cpp",
+              "RelativeDocumentMoniker": "Suurballe.cpp",
+              "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Suurballe.cpp",
+              "RelativeToolTip": "Suurballe.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T03:17:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cpp",
+              "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Event.cpp",
+              "RelativeDocumentMoniker": "Event.cpp",
+              "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Event.cpp",
+              "RelativeToolTip": "Event.cpp",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAAABgBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T03:17:48.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Param.cpp",
+              "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Param.cpp",
+              "RelativeDocumentMoniker": "Param.cpp",
+              "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Param.cpp",
+              "RelativeToolTip": "Param.cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAADUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T03:17:33.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Graph.cpp",
               "DocumentMoniker": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Graph.cpp",
               "RelativeDocumentMoniker": "Graph.cpp",
               "ToolTip": "D:\\Ultimate_Code_Deluxe\\Exp_J.Yu_Ch.3_Part.II_RUMN\\Graph.cpp",
               "RelativeToolTip": "Graph.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T13:02:01.758Z"
+              "WhenOpened": "2024-10-29T03:17:30.529Z",
+              "EditorCaption": ""
             }
           ]
         }

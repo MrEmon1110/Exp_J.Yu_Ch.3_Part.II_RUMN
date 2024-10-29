@@ -18,7 +18,6 @@ int main()
 	Database dataBase;
 
 	outfile.open("NID_B_ILP.xls", ios::trunc);//ios::out
-
 	if (!outfile)
 	{
 		cerr << "存取数据的文件打不开" << endl;
@@ -29,6 +28,7 @@ int main()
 			<< "totalS\t" << "BP\t" << "TIME\t" << endl;
 		outfile.close();
 	}
+
 	outfile.open("BP-N-kun-a=0.8-ILP.xls", ios::trunc);
 	if (!outfile)
 	{
@@ -38,6 +38,7 @@ int main()
 	{
 		outfile.close();
 	}
+
 	outfile.open("SP-NID-kun.xls", ios::trunc);
 	if (!outfile)
 	{
@@ -47,6 +48,8 @@ int main()
 	{
 		outfile.close();
 	}
+
+	//估计是设置功能链的长度
 	for (virMaxNode = 3; virMaxNode < 4; virMaxNode++)
 	{
 		for (int ithTimeSFC = 0; ithTimeSFC < runTime; ithTimeSFC++)
@@ -97,7 +100,7 @@ int main()
 				ithSFC++;
 			}
 			cout << ithTimeSFC << "kun" << endl;
-			simulation.mapping(ithTimeSFC, SFCnum);
+			simulation.mapping(ithTimeSFC, SFCnum);	//估计是映射函数
 			simulation.m_database.resourceUtilizationRatio();
 		}
 		simulation.m_database.statisticResult();

@@ -94,9 +94,9 @@ int main()
 			int ithSFC = 0;
 			srand(ithTimeSFC);
 			//srand(1);
-			while (ithSFC < SFCnum)//SFCnum=totalSFC
+			while (ithSFC < SFCnum)//SFCnum=totalSFC£¬ÒµÎñÊý
 			{
-				simulation.m_generateEvent.ERtopology(ithSFC);
+				simulation.m_generateEvent. y(ithSFC);
 				ithSFC++;
 			}
 			cout << ithTimeSFC << "kun" << endl;

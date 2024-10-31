@@ -1,6 +1,4 @@
 ﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
-  Event.cpp
-D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Event.cpp(113,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Event.cpp(377,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Event.cpp(290,29): warning C4101: “aVir”: 未引用的局部变量
+  Main.cpp
+D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Main.cpp(15,6): warning C4101: “lineRateType”: 未引用的局部变量
   energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.vcxproj -> D:\Ultimate_Code_Deluxe\Exp_J.Yu_Ch.3_Part.II_RUMN\Debug\energyMatrix-dedicatedPath-Suurballe-Minimum-Channel.exe
